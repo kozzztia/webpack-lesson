@@ -15,9 +15,13 @@
   "devDependencies": {
     "@babel/core": "^7.25.2",
     "@babel/preset-env": "^7.25.4",
+    "autoprefixer": "^10.4.20",
     "babel-loader": "^9.2.1",
     "css-loader": "^7.1.2",
+    "file-loader": "^6.2.0",
     "html-webpack-plugin": "^5.6.0",
+    "image-webpack-loader": "^8.1.0",
+    "postcss-loader": "^8.1.1",
     "rimraf": "^6.0.1",
     "style-loader": "^4.0.0",
     "webpack": "^5.94.0",
