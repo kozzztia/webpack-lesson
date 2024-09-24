@@ -1,0 +1,12 @@
+body {
+    background-color: lightblue;
+    font-family: Arial, sans-serif;
+    background: rgba(0, 0, 255, 0.305);
+}
+
+div {
+    color: white;
+    background-color: darkblue;
+    padding: 20px;
+    text-align: center;
+}

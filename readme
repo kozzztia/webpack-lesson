@@ -1,0 +1,5 @@
+npm init -y 
+npm install webpack webpack-cli --save-dev
+
+npm install webpack webpack-cli style-loader css-loader babel-loader @babel/core @babel/preset-env html-webpack-plugin npm install webpack webpack-cli style-loader css-loader babel-loader @babel/core @babel/preset-env html-webpack-plugin --save-dev
+ --save-dev
